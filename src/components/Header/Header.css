@@ -1,0 +1,12 @@
+.link {
+  text-decoration: none;
+  margin-right: 5px;
+  color: black;
+  font-size: large;
+  padding: 10px;
+  background-color: beige;
+  border-radius: 10%;
+}
+.link:hover {
+  background-color: aquamarine;
+}
